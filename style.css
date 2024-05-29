@@ -4,7 +4,7 @@ body{
 #container{
 	text-align:justify;
 	width:1200px;
-	margin:0 auto;
+	margin:-10px auto;
 	background-color:#FFFFFF;
 	height:auto;
 	font-family:arial;
